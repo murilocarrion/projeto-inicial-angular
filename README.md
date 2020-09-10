@@ -1,10 +1,10 @@
 # Projeto inicial utilizando Angular
 
 A intenção é ter um ponto de partida para qualquer projeto que for utilizar Angular.
-Angular Material
-Routes
-Rxjs
-HttpClient
+- Angular Material
+- Routes
+- Rxjs
+- HttpClient
 
 ## Instalação
 
